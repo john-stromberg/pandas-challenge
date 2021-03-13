@@ -72,7 +72,7 @@ The final report includes each of the following:
 
 
 * The analysis was completed using the Pandas Library and the Jupyter Notebook.
-* the Jupyter Notebook with the code and dataframes can be in the HeroesOfPymoli folder.
+* the Jupyter Notebook with the code and dataframes can be found in the HeroesOfPymoli folder.
 
 Heroes of Pymoli Observable Trends 
 
